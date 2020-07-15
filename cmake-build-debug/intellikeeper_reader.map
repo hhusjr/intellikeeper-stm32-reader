@@ -1,0 +1,1294 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj (__aeabi_i2d)
+/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                              CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj (__aeabi_ddiv)
+/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+                              CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj (__errno)
+/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+                              /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                              /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                              /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                              /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x74 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x0000000000000000       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x44 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_DisableIRQ
+                0x0000000000000000       0x48 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPendingIRQ
+                0x0000000000000000       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_ClearPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetActive
+                0x0000000000000000       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriority
+                0x0000000000000000       0x4c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_DecodePriority
+                0x0000000000000000       0x6c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SystemReset
+                0x0000000000000000       0x2c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000        0x8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000        0xe CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x2c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x1e CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x1e CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0000000000000000       0xb4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x0000000000000000       0xb8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x84 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x0000000000000000       0xbe CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x0000000000000000       0x74 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000      0x30c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000      0x20c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0x90 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0xa8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x0000000000000000       0x16 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x0000000000000000       0x5a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x0000000000000000      0x14c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x0000000000000000      0x104 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x0000000000000000       0xc0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x0000000000000000       0x32 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x0000000000000000       0x26 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x0000000000000000       0x48 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x0000000000000000       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x0000000000000000       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x0000000000000000       0x2c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x0000000000000000      0x618 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x0000000000000000      0x1df CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x0000000000000000      0x578 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x0000000000000000      0x503 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x0000000000000000      0x174 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x0000000000000000       0xe0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x0000000000000000       0x90 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x0000000000000000      0x1c8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x0000000000000000       0x4c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x8c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x0000000000000000       0xa0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x0000000000000000      0x5dc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x0000000000000000      0x23b CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x0000000000000000       0x88 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x0000000000000000       0x78 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x0000000000000000      0x63b CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x0000000000000000      0x619 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x0000000000000000      0x20c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x0000000000000000       0xd8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x0000000000000000       0x84 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x0000000000000000       0x84 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x0000000000000000       0xf8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x0000000000000000       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x0000000000000000      0x144 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x0000000000000000      0x140 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x0000000000000000       0xa0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x0000000000000000       0x70 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x0000000000000000       0x68 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x0000000000000000       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x0000000000000000      0x88b CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x246 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x98 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x88 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x0000000000000000      0x737 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x0000000000000000      0x745 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x0000000000000000      0x258 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x0000000000000000      0x178 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x0000000000000000       0x2e CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x0000000000000000       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x4e CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0000000000000000       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x0000000000000000       0x2c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x0000000000000000      0x231 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x10f CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x0000000000000000      0x2b5 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x0000000000000000      0x384 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x0000000000000000       0x78 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x0000000000000000       0x10 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x0000000000000000       0x28 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0xbc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x64 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x0000000000000000       0x24 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x0000000000000000      0x719 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x210 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x0000000000000000       0x98 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x0000000000000000      0x4d6 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x0000000000000000      0x5b6 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x0000000000000000      0x270 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x0000000000000000      0x134 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0x70 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000      0x104 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x60 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x28 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x0000000000000000      0x16c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000       0x60 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata        0x0000000000000000       0x10 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000      0x188 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000000000000000      0x469 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x190 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000000000000000      0x4ab CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000000000      0x4cd CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x0000000000000000       0x84 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x0000000000000000      0x15c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x0000000000000000       0x97 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x0000000000000000      0x1fa CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x0000000000000000      0x2e4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x0000000000000000      0x15c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x0000000000000000       0x97 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x0000000000000000      0x1fa CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x0000000000000000      0x2e7 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x0000000000000000       0xaa CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x0000000000000000       0xcc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x0000000000000000       0xe0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x0000000000000000       0x58 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x0000000000000000       0x88 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_IT
+                0x0000000000000000       0xa8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_DMA
+                0x0000000000000000       0xd8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_DMA
+                0x0000000000000000      0x100 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x0000000000000000       0xc6 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x0000000000000000       0xa0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAStop
+                0x0000000000000000       0xb6 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x0000000000000000      0x104 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x0000000000000000       0x88 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x0000000000000000       0x98 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x0000000000000000      0x148 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x0000000000000000       0xa0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x0000000000000000       0xb0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_RxHalfCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_ErrorCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x0000000000000000       0x52 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x0000000000000000       0x52 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_ExitMuteMode
+                0x0000000000000000       0x52 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x0000000000000000       0x66 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x0000000000000000       0x66 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x0000000000000000       0x3a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x0000000000000000       0x16 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATransmitCplt
+                0x0000000000000000       0x52 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxHalfCplt
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x0000000000000000       0x68 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxHalfCplt
+                0x0000000000000000       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAError
+                0x0000000000000000       0x94 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTxTransfer
+                0x0000000000000000       0x2a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x0000000000000000       0x5a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x0000000000000000       0x5a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x0000000000000000       0x2a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x0000000000000000       0x2a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .bss.Zigbee_Config
+                0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .rodata.Type_Mapping
+                0x0000000000000000       0x50 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .rodata.Baud_Rate_Mapping
+                0x0000000000000000       0x24 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .text.Zigbee_Read_Config
+                0x0000000000000000       0xf0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .text.Zigbee_Connect
+                0x0000000000000000       0xb4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .text.Zigbee_Write_Config
+                0x0000000000000000      0x1f4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .text.Zigbee_ConfigureAs
+                0x0000000000000000       0x64 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .bss.__env     0x0000000000000000        0x4 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .data.environ  0x0000000000000000        0x4 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x0000000000000000        0xc CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._getpid  0x0000000000000000        0xe CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._kill    0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._exit    0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._read    0x0000000000000000       0x3a CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._write   0x0000000000000000       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .bss.heap_end.6018
+                0x0000000000000000        0x4 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._sbrk    0x0000000000000000       0x58 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._close   0x0000000000000000       0x16 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._fstat   0x0000000000000000       0x1e CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._isatty  0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._lseek   0x0000000000000000       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._open    0x0000000000000000       0x1a CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._wait    0x0000000000000000       0x1e CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._unlink  0x0000000000000000       0x1e CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._times   0x0000000000000000       0x16 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._stat    0x0000000000000000       0x1e CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._link    0x0000000000000000       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._fork    0x0000000000000000       0x16 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text._execve  0x0000000000000000       0x22 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .debug_info    0x0000000000000000     0x100f CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .debug_abbrev  0x0000000000000000      0x2a9 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .debug_aranges
+                0x0000000000000000       0xb0 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .debug_ranges  0x0000000000000000       0xa0 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .debug_line    0x0000000000000000      0x4af CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .debug_str     0x0000000000000000      0x893 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .debug_frame   0x0000000000000000      0x2d0 CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xe4 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x0000000000000000       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+ .text          0x0000000000000000      0x378 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000000       0xac /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .text          0x0000000000000000      0x424 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000000       0x50 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000005000 xrw
+FLASH            0x0000000008000000 0x0000000000010000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/syscalls.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+LOAD CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+START GROUP
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+START GROUP
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+LOAD /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020005000                _estack = 0x20005000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x000000000800010c     0x2350
+                0x000000000800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x000000000800010c       0x40 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.HAL_Init
+                0x000000000800014c       0x2c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x000000000800014c                HAL_Init
+ .text.HAL_InitTick
+                0x0000000008000178       0x60 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008000178                HAL_InitTick
+ .text.HAL_IncTick
+                0x00000000080001d8       0x24 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080001d8                HAL_IncTick
+ .text.HAL_GetTick
+                0x00000000080001fc       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080001fc                HAL_GetTick
+ .text.HAL_Delay
+                0x0000000008000210       0x48 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008000210                HAL_Delay
+ .text.__NVIC_SetPriorityGrouping
+                0x0000000008000258       0x48 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriorityGrouping
+                0x00000000080002a0       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_EnableIRQ
+                0x00000000080002bc       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPriority
+                0x00000000080002f4       0x54 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_EncodePriority
+                0x0000000008000348       0x64 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.SysTick_Config
+                0x00000000080003ac       0x44 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x00000000080003f0       0x16 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000000080003f0                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0000000008000406       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000406                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x000000000800043e       0x1c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x000000000800043e                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x000000000800045a       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x000000000800045a                HAL_SYSTICK_Config
+ *fill*         0x0000000008000472        0x2 
+ .text.HAL_DMA_Abort_IT
+                0x0000000008000474       0xec CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0000000008000474                HAL_DMA_Abort_IT
+ .text.HAL_GPIO_Init
+                0x0000000008000560      0x308 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008000560                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x0000000008000868       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008000868                HAL_GPIO_WritePin
+ .text.HAL_RCC_OscConfig
+                0x0000000008000898      0x500 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008000898                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x0000000008000d98      0x1d4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008000d98                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0000000008000f6c       0xc0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008000f6c                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_GetHCLKFreq
+                0x000000000800102c       0x14 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000000000800102c                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000008001040       0x28 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008001040                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000008001068       0x28 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008001068                HAL_RCC_GetPCLK2Freq
+ .text.RCC_Delay
+                0x0000000008001090       0x3c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_UART_Init
+                0x00000000080010cc       0x9a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000000080010cc                HAL_UART_Init
+ .text.HAL_UART_Transmit
+                0x0000000008001166      0x132 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x0000000008001166                HAL_UART_Transmit
+ .text.HAL_UART_Receive
+                0x0000000008001298      0x14c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x0000000008001298                HAL_UART_Receive
+ .text.HAL_UART_IRQHandler
+                0x00000000080013e4      0x1f4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000000080013e4                HAL_UART_IRQHandler
+ .text.HAL_UART_TxCpltCallback
+                0x00000000080015d8       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000000080015d8                HAL_UART_TxCpltCallback
+ .text.HAL_UART_RxCpltCallback
+                0x00000000080015ea       0x12 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000000080015ea                HAL_UART_RxCpltCallback
+ .text.UART_WaitOnFlagUntilTimeout
+                0x00000000080015fc       0x94 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndRxTransfer
+                0x0000000008001690       0x3a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAAbortOnError
+                0x00000000080016ca       0x28 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Transmit_IT
+                0x00000000080016f2       0xaa CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTransmit_IT
+                0x000000000800179c       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Receive_IT
+                0x00000000080017cc      0x102 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ *fill*         0x00000000080018ce        0x2 
+ .text.UART_SetConfig
+                0x00000000080018d0      0x1b4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.Zigbee_Handle
+                0x0000000008001a84      0x140 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .text.Zigbee_UART_IRQ
+                0x0000000008001bc4      0x108 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000008001bc4                Zigbee_UART_IRQ
+ .text.Calc_Checksum
+                0x0000000008001ccc       0x44 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000008001ccc                Calc_Checksum
+ .text.Beep     0x0000000008001d10       0x60 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000008001d10                Beep
+ .text.Zigbee_Involve
+                0x0000000008001d70      0x1bc CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000008001d70                Zigbee_Involve
+ .text.Zigbee_SendData
+                0x0000000008001f2c       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000008001f2c                Zigbee_SendData
+ .text.Zigbee_SayHello
+                0x0000000008001f6c       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000008001f6c                Zigbee_SayHello
+ .text.MX_GPIO_Init
+                0x0000000008001f9c       0xd8 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+                0x0000000008001f9c                MX_GPIO_Init
+ .text.main     0x0000000008002074       0x3c CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+                0x0000000008002074                main
+ .text.SystemClock_Config
+                0x00000000080020b0       0x8a CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+                0x00000000080020b0                SystemClock_Config
+ .text.Error_Handler
+                0x000000000800213a        0xc CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+                0x000000000800213a                Error_Handler
+ *fill*         0x0000000008002146        0x2 
+ .text.HAL_MspInit
+                0x0000000008002148       0x64 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000008002148                HAL_MspInit
+ .text.NMI_Handler
+                0x00000000080021ac        0xc CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021ac                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080021b8       0x10 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021b8                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080021c8        0x6 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021c8                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080021ce        0x6 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021ce                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080021d4        0x6 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021d4                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080021da        0xc CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021da                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080021e6        0xc CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021e6                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000000080021f2        0xc CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021f2                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080021fe        0xc CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080021fe                SysTick_Handler
+ *fill*         0x000000000800220a        0x2 
+ .text.USART2_IRQHandler
+                0x000000000800220c       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800220c                USART2_IRQHandler
+ .text.SystemInit
+                0x0000000008002224       0x68 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+                0x0000000008002224                SystemInit
+ .text.MX_USART2_UART_Init
+                0x000000000800228c       0x54 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+                0x000000000800228c                MX_USART2_UART_Init
+ .text.HAL_UART_MspInit
+                0x00000000080022e0       0xa4 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+                0x00000000080022e0                HAL_UART_MspInit
+ .text.HAL_UART_ErrorCallback
+                0x0000000008002384       0x1a CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+                0x0000000008002384                HAL_UART_ErrorCallback
+ *fill*         0x000000000800239e        0x2 
+ .text.Reset_Handler
+                0x00000000080023a0       0x48 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x00000000080023a0                Reset_Handler
+ .text.Default_Handler
+                0x00000000080023e8        0x2 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x00000000080023e8                USBWakeUp_IRQHandler
+                0x00000000080023e8                EXTI2_IRQHandler
+                0x00000000080023e8                TIM1_CC_IRQHandler
+                0x00000000080023e8                PVD_IRQHandler
+                0x00000000080023e8                EXTI3_IRQHandler
+                0x00000000080023e8                EXTI0_IRQHandler
+                0x00000000080023e8                I2C2_EV_IRQHandler
+                0x00000000080023e8                ADC1_2_IRQHandler
+                0x00000000080023e8                SPI1_IRQHandler
+                0x00000000080023e8                TAMPER_IRQHandler
+                0x00000000080023e8                DMA1_Channel4_IRQHandler
+                0x00000000080023e8                USART3_IRQHandler
+                0x00000000080023e8                RTC_IRQHandler
+                0x00000000080023e8                DMA1_Channel7_IRQHandler
+                0x00000000080023e8                CAN1_RX1_IRQHandler
+                0x00000000080023e8                TIM4_IRQHandler
+                0x00000000080023e8                I2C1_EV_IRQHandler
+                0x00000000080023e8                DMA1_Channel6_IRQHandler
+                0x00000000080023e8                TIM3_IRQHandler
+                0x00000000080023e8                RCC_IRQHandler
+                0x00000000080023e8                TIM1_TRG_COM_IRQHandler
+                0x00000000080023e8                DMA1_Channel1_IRQHandler
+                0x00000000080023e8                Default_Handler
+                0x00000000080023e8                EXTI15_10_IRQHandler
+                0x00000000080023e8                EXTI9_5_IRQHandler
+                0x00000000080023e8                SPI2_IRQHandler
+                0x00000000080023e8                DMA1_Channel5_IRQHandler
+                0x00000000080023e8                EXTI4_IRQHandler
+                0x00000000080023e8                USB_LP_CAN1_RX0_IRQHandler
+                0x00000000080023e8                USB_HP_CAN1_TX_IRQHandler
+                0x00000000080023e8                DMA1_Channel3_IRQHandler
+                0x00000000080023e8                TIM1_UP_IRQHandler
+                0x00000000080023e8                WWDG_IRQHandler
+                0x00000000080023e8                TIM2_IRQHandler
+                0x00000000080023e8                TIM1_BRK_IRQHandler
+                0x00000000080023e8                EXTI1_IRQHandler
+                0x00000000080023e8                I2C2_ER_IRQHandler
+                0x00000000080023e8                DMA1_Channel2_IRQHandler
+                0x00000000080023e8                CAN1_SCE_IRQHandler
+                0x00000000080023e8                FLASH_IRQHandler
+                0x00000000080023e8                USART1_IRQHandler
+                0x00000000080023e8                I2C1_ER_IRQHandler
+                0x00000000080023e8                RTC_Alarm_IRQHandler
+ *fill*         0x00000000080023ea        0x2 
+ .text.__libc_init_array
+                0x00000000080023ec       0x48 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                0x00000000080023ec                __libc_init_array
+ .text.memset   0x0000000008002434       0x10 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x0000000008002434                memset
+ *(.glue_7)
+ .glue_7        0x0000000008002444        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008002444        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008002444        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000008002444        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x0000000008002444                _init
+ .init          0x0000000008002448        0x8 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000008002450        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x0000000008002450                _fini
+ .fini          0x0000000008002454        0x8 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x000000000800245c                . = ALIGN (0x4)
+                0x000000000800245c                _etext = .
+
+.vfp11_veneer   0x000000000800245c        0x0
+ .vfp11_veneer  0x000000000800245c        0x0 linker stubs
+
+.v4_bx          0x000000000800245c        0x0
+ .v4_bx         0x000000000800245c        0x0 linker stubs
+
+.iplt           0x000000000800245c        0x0
+ .iplt          0x000000000800245c        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x000000000800245c       0x28
+                0x000000000800245c                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x000000000800245c       0x10 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x000000000800246c       0x10 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+                0x000000000800246c                AHBPrescTable
+ .rodata.APBPrescTable
+                0x000000000800247c        0x8 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+                0x000000000800247c                APBPrescTable
+                0x0000000008002484                . = ALIGN (0x4)
+
+.rel.dyn        0x0000000008002484        0x0
+ .rel.iplt      0x0000000008002484        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000008002484        0x0
+                0x0000000008002484                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008002484                __exidx_end = .
+
+.preinit_array  0x0000000008002484        0x0
+                0x0000000008002484                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008002484                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000008002484        0x4
+                0x0000000008002484                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008002484        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000008002488                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008002488        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008002488        0x4 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x000000000800248c                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x14 load address 0x000000000800248c
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uwTickPrio
+                0x0000000020000000        0x4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000000                uwTickPrio
+ .data.uwTickFreq
+                0x0000000020000004        0x1 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000004                uwTickFreq
+ *fill*         0x0000000020000005        0x3 
+ .data.Send_Buf
+                0x0000000020000008        0x4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000020000008                Send_Buf
+ .data.Sensor_Light_On
+                0x000000002000000c        0x1 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+                0x000000002000000c                Sensor_Light_On
+ .data.Sensor_Move_On
+                0x000000002000000d        0x1 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+                0x000000002000000d                Sensor_Move_On
+ *fill*         0x000000002000000e        0x2 
+ .data.SystemCoreClock
+                0x0000000020000010        0x4 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+                0x0000000020000010                SystemCoreClock
+                0x0000000020000014                . = ALIGN (0x4)
+                0x0000000020000014                _edata = .
+
+.igot.plt       0x0000000020000014        0x0 load address 0x00000000080024a0
+ .igot.plt      0x0000000020000014        0x0 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000020000014                . = ALIGN (0x4)
+
+.bss            0x0000000020000014      0x2bc load address 0x00000000080024a0
+                0x0000000020000014                _sbss = .
+                0x0000000020000014                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000014       0x1c /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.uwTick    0x0000000020000030        0x4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000030                uwTick
+ .bss.Tx_Buf    0x0000000020000034      0x12c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000020000034                Tx_Buf
+ .bss.Rx_Buf    0x0000000020000160      0x12c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x0000000020000160                Rx_Buf
+ .bss.Received_Length
+                0x000000002000028c        0x1 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x000000002000028c                Received_Length
+ .bss.Need_To_Receive
+                0x000000002000028d        0x1 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x000000002000028d                Need_To_Receive
+ .bss.state     0x000000002000028e        0x1 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                0x000000002000028e                state
+ .bss.Mute_Mode
+                0x000000002000028f        0x1 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+                0x000000002000028f                Mute_Mode
+ .bss.huart2    0x0000000020000290       0x40 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+                0x0000000020000290                huart2
+ *(COMMON)
+                0x00000000200002d0                . = ALIGN (0x4)
+                0x00000000200002d0                _ebss = .
+                0x00000000200002d0                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200002d0      0x600 load address 0x00000000080024a0
+                0x00000000200002d0                . = ALIGN (0x8)
+                0x00000000200002d0                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x00000000200004d0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200002d0      0x200 
+                0x00000000200008d0                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200004d0      0x400 
+                0x00000000200008d0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x0000000000000077       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000000000000a4       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000000000000d1       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000000000000fe       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000000000000012b       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .ARM.attributes
+                0x0000000000000158       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .ARM.attributes
+                0x0000000000000185       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .ARM.attributes
+                0x00000000000001b2       0x33 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .ARM.attributes
+                0x00000000000001e5       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .ARM.attributes
+                0x0000000000000212       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000000000000023f       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x000000000000026c       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x0000000000000299       0x2d CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .ARM.attributes
+                0x00000000000002c6       0x21 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+ .ARM.attributes
+                0x00000000000002e7       0x2d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000314       0x2d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000341       0x1d /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(intellikeeper_reader.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x7054
+ .debug_info    0x0000000000000000      0x747 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x0000000000000747      0xbc5 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x000000000000130c      0x807 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x0000000000001b13      0x6da CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x00000000000021ed      0x877 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000000000002a64     0x12db CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x0000000000003d3f      0xc92 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .debug_info    0x00000000000049d1      0x395 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .debug_info    0x0000000000004d66      0x1aa CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .debug_info    0x0000000000004f10      0x89b CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .debug_info    0x00000000000057ab      0x2e5 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x0000000000005a90      0x721 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00000000000061b1      0x462 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_info    0x0000000000006613      0xa1f CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .debug_info    0x0000000000007032       0x22 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_abbrev   0x0000000000000000     0x1a10
+ .debug_abbrev  0x0000000000000000      0x1fd CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000000000001fd      0x310 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x000000000000050d      0x225 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x0000000000000732      0x1e5 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000000000000917      0x270 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000000000000b87      0x26d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_abbrev  0x0000000000000df4      0x304 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .debug_abbrev  0x00000000000010f8      0x14b CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .debug_abbrev  0x0000000000001243       0xa6 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .debug_abbrev  0x00000000000012e9      0x18f CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .debug_abbrev  0x0000000000001478      0x11a CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x0000000000001592      0x160 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x00000000000016f2      0x14b CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x000000000000183d      0x1c1 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .debug_abbrev  0x00000000000019fe       0x12 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_aranges  0x0000000000000000      0x700
+ .debug_aranges
+                0x0000000000000000       0xe0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x00000000000000e0      0x100 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000000000001e0       0x80 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x0000000000000260       0x58 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000000000002b8       0x90 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x0000000000000348      0x1d0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_aranges
+                0x0000000000000518       0x70 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .debug_aranges
+                0x0000000000000588       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .debug_aranges
+                0x00000000000005a8       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .debug_aranges
+                0x00000000000005c0       0x30 CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .debug_aranges
+                0x00000000000005f0       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x0000000000000610       0x68 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x0000000000000678       0x28 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x00000000000006a0       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .debug_aranges
+                0x00000000000006d8       0x28 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_ranges   0x0000000000000000      0x668
+ .debug_ranges  0x0000000000000000       0xd0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x00000000000000d0       0xf0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000000000001c0       0x70 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x0000000000000230       0x48 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x0000000000000278       0x80 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x00000000000002f8      0x1c0 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_ranges  0x00000000000004b8       0xb8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .debug_ranges  0x0000000000000570       0x10 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .debug_ranges  0x0000000000000580       0x20 CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .debug_ranges  0x00000000000005a0       0x10 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000000000005b0       0x58 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x0000000000000608       0x18 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x0000000000000620       0x28 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .debug_ranges  0x0000000000000648       0x20 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_line     0x0000000000000000     0x56e4
+ .debug_line    0x0000000000000000      0x530 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x0000000000000530      0x716 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x0000000000000c46      0x9b4 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00000000000015fa      0x5e8 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x0000000000001be2      0x99c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x000000000000257e     0x1358 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x00000000000038d6      0x7aa CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .debug_line    0x0000000000004080      0x290 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .debug_line    0x0000000000004310      0x274 CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .debug_line    0x0000000000004584      0x3ce CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .debug_line    0x0000000000004952      0x266 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x0000000000004bb8      0x3b6 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000000000004f6e      0x319 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_line    0x0000000000005287      0x3bd CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .debug_line    0x0000000000005644       0xa0 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_str      0x0000000000000000     0x21d8
+ .debug_str     0x0000000000000000      0x811 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                        0x875 (size before relaxing)
+ .debug_str     0x0000000000000811      0x42d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                        0x9dc (size before relaxing)
+ .debug_str     0x0000000000000c3e      0x413 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                                        0x71e (size before relaxing)
+ .debug_str     0x0000000000001051      0x1ed CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                        0x52d (size before relaxing)
+ .debug_str     0x000000000000123e      0x34d CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                        0x6e8 (size before relaxing)
+ .debug_str     0x000000000000158b      0x70c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                                        0xc2f (size before relaxing)
+ .debug_str     0x0000000000001c97      0x236 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+                                        0x8cc (size before relaxing)
+ .debug_str     0x0000000000001ecd       0x4e CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+                                        0x385 (size before relaxing)
+ .debug_str     0x0000000000001f1b       0x3a CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+                                        0x2ec (size before relaxing)
+ .debug_str     0x0000000000001f55       0x57 CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+                                        0x85a (size before relaxing)
+ .debug_str     0x0000000000001fac       0x3e CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                                        0x347 (size before relaxing)
+ .debug_str     0x0000000000001fea       0xdb CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+                                        0x775 (size before relaxing)
+ .debug_str     0x00000000000020c5       0x70 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+                                        0x39c (size before relaxing)
+ .debug_str     0x0000000000002135       0x51 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+                                        0xab0 (size before relaxing)
+ .debug_str     0x0000000000002186       0x52 CMakeFiles/intellikeeper_reader.elf.dir/startup/startup_stm32f103xb.s.obj
+                                         0x8a (size before relaxing)
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/intellikeeper.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+
+.debug_frame    0x0000000000000000     0x19d4
+ .debug_frame   0x0000000000000000      0x334 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x0000000000000334      0x428 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x000000000000075c      0x208 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x0000000000000964      0x14c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x0000000000000ab0      0x21c CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x0000000000000ccc      0x834 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_frame   0x0000000000001500      0x190 CMakeFiles/intellikeeper_reader.elf.dir/Drivers/Zigbee/zigbee.c.obj
+ .debug_frame   0x0000000000001690       0x34 CMakeFiles/intellikeeper_reader.elf.dir/Src/gpio.c.obj
+ .debug_frame   0x00000000000016c4       0x70 CMakeFiles/intellikeeper_reader.elf.dir/Src/main.c.obj
+ .debug_frame   0x0000000000001734       0x38 CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x000000000000176c      0x12c CMakeFiles/intellikeeper_reader.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x0000000000001898       0x58 CMakeFiles/intellikeeper_reader.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x00000000000018f0       0x98 CMakeFiles/intellikeeper_reader.elf.dir/Src/usart.c.obj
+ .debug_frame   0x0000000000001988       0x2c /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000000019b4       0x20 /Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)

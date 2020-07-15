@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="intellikeeper-reader"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zeroisone/intellikeeper_tag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zeroisone/intellikeeper_tag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zeroisone/intellikeeper_tag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intellikeeper-reader.elf">
+				<Option output="/Users/zeroisone/intellikeeper_tag/cmake-build-debug/intellikeeper-reader.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/intellikeeper_tag/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Inc"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 intellikeeper-reader.elf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intellikeeper-reader.elf/fast">
+				<Option output="/Users/zeroisone/intellikeeper_tag/cmake-build-debug/intellikeeper-reader.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/intellikeeper_tag/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Inc"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="/Users/zeroisone/Downloads/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 intellikeeper-reader.elf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/intellikeeper_tag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/cmsis_armclang.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/cmsis_compiler.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/cmsis_iccarm.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/cmsis_version.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_armv8mbl.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_armv8mml.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm1.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm23.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm33.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/mpu_armv7.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/mpu_armv8.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/CMSIS/Include/tz_context.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/MPU6050/move_detect.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/MPU6050/move_detect.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/MPU6050/sd_hal_mpu6050.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/MPU6050/sd_hal_mpu6050.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/Zigbee/zigbee.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Drivers/Zigbee/zigbee.h">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/STM32F103C8Tx_FLASH.ld">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/gpio.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/i2c.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/intellikeeper.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/main.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/stm32f1xx_hal_msp.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/stm32f1xx_it.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/syscalls.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/system_stm32f1xx.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/tim.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/Src/usart.c">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/startup/startup_stm32f103xb.s">
+			<Option target="intellikeeper-reader.elf"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/intellikeeper_tag/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
